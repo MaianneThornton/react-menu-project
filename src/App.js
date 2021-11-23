@@ -27,7 +27,7 @@ function App() {
     <main>
       <section className="menu section">
         <div className="title">
-          <h2>our menu</h2>
+          <h2>Earth Wind & Flour Restaurant Menu</h2>
           <div className="underline"></div>
         </div>
         {/* Used in the manual method */}
